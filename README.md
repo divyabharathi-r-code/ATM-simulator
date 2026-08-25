@@ -18,6 +18,6 @@ The program uses a `do-while` loop to show the user a menu of choices. Based on 
 - Control Flow (do-while loop, switch-case statements)
 - Conditional Validation (if-else blocks)
 - Variable Data Tracking (int updates)
-- 
+
 ##  Customization
 Feel free to modify the starting `balance` variable in `atm-simulation.cpp` to test different scenarios or run the program with any initial amount you like!
