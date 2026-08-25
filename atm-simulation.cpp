@@ -16,8 +16,8 @@ int main(){
     cin>>purpose;
    if (!(cin >> purpose)) {
     cout << "Invalid input! Please enter a number.\n";
-    cin.clear(); // clear error state
-    cin.ignore(1000, '\n'); // discard invalid input
+    cin.clear(); 
+    cin.ignore(1000, '\n'); 
     continue;
     }
     
